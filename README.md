@@ -1,1 +1,1 @@
-## KZN Tech Horizon
+## KZN Tech Horizon (User)
