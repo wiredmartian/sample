@@ -1,1 +1,1 @@
-# sample
+## KZN Tech Horizon
